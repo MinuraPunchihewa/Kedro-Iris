@@ -1,4 +1,4 @@
-# Kedro Spaceflights Tutorial
+# Kedro Iris Enhancements
 
 This is an enhanced implementation of the Kedro Iris Starter project.
 
