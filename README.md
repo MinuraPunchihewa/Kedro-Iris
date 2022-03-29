@@ -46,3 +46,8 @@ Have a look at the file `src/tests/test_run.py` for instructions on how to write
 ```
 kedro test
 ```
+
+## Related Projects
+
+- [Kedro Iris Starter](https://github.com/quantumblacklabs/kedro-starter-pandas-iris.git): The original Kedro Iris Starter Project.
+- [Kedro Iris API](https://github.com/MinuraPunchihewa/kedro-iris-flask-api.git): An enhanced implementation of the Kedro Iris Starter project, running as a Flask API on Docker.
